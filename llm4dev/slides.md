@@ -536,8 +536,6 @@ hide: true
 
 - [OpenSSF: Securing Open Source in the Age of AI (2026)](https://openssf.org/wp-content/uploads/2026/05/Securing-Open-Source-in-the-Age-of-AI.pdf)
 
-- [curl vs AI: Daniel Stenberg interview (2025)](https://opensourcesecurity.io/2025/2025-05-curl_vs_ai_with_daniel_stenberg/)
-- [curl: Shutting down the bug bounty due to AI slop (2026)](https://www.theregister.com/security/2026/01/21/curl-shutters-bug-bounty-program-to-stop-ai-slop/5063039)
 - [AI slop is overwhelming open source (Runtime, 2026)](https://www.runtime.news/ai-slop-is-overwhelming-open-source/)
 - [Why Open Source Maintainers Are Rejecting AI-Generated Pull Requests (2026)](https://dev.to/pickuma/why-open-source-maintainers-are-rejecting-ai-generated-pull-requests-12ac)
 - [Linux kernel thread - mad response -L.Trovalds](https://lkml.iu.edu/2610.1/13255.html)
