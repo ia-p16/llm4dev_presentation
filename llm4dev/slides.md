@@ -200,7 +200,6 @@ dragPos:
 It may not have been that \"clearly\" even just a year ago, but it's no longer in question today."[^4]
 
 [^4]: [Linux kernel thread July 14-2026 - L.Trovalds](https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/) 
-
 [^3]: [Commit 1e03529 - docs: remove Assisted-by references](https://github.com/torvalds/linux/commit/1e035297ffdadf2184c3c773b8c098e372324aaf)
 [^5]: [Linux kernel: AI Coding Assistants policy (official docs)- last 7.4.0-rc1](https://docs.kernel.org/process/coding-assistants.html)
 
