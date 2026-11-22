@@ -1,0 +1,13 @@
+{
+  "name": "llm4dev-presentation",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "slidev ../presentation.md",
+    "build": "slidev build ../presentation.md",
+    "export": "slidev export ../presentation.md"
+  },
+  "devDependencies": {
+    "@slidev/cli": "^53.0.0"
+  }
+}
